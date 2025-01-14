@@ -1,0 +1,18 @@
+final json files
+output
+predictions
+CholecT50
+__pycache__/
+*.py[cod]
+*.so
+.Python
+lightning_logs/
+.env
+venv/
+.venv/
+.pytest_cache/
+*.egg-info/
+
+
+
+
