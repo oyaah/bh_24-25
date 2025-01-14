@@ -12,6 +12,8 @@ venv/
 .venv/
 .pytest_cache/
 *.egg-info/
+model.pth 
+trained_model_fold_1.pth 
 
 
 
