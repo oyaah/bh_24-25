@@ -1,5 +1,5 @@
 
-# Beginner's Hypothesis 2y (25)
+# WSL+detection
 
 ## Weakly Supervised Object Localisation and Triplet Detection
 
